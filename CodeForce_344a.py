@@ -1,4 +1,4 @@
-# 3444A
+# 344A
 counts = 0
 emp = ''
 for l in range(int(input())):
